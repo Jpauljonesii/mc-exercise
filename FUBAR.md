@@ -1,4 +1,4 @@
-# Merge Conflict Lab 
+# Merge Conflict Lab
 
 I am working on an merge conflict exercise for this lab. This will help me get a better understanding of working with teams on a project and how to resolve any merge conflicts that arise.
 
